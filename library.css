@@ -1,0 +1,39 @@
+html{
+    background:url('https://source.unsplash.com/1600x900/?quotes');
+}
+
+.back{
+    align-items: center;
+    justify-content: center;
+    background:url('https://source.unsplash.com/1600x900/?translucent,transparent');
+    color: cornsilk;
+    border-radius: 50px;
+    
+    background:url('https://source.unsplash.com/2000x1200/?cars');
+}
+
+.contents:hover{
+    color: greenyellow;
+    background: greenyellow;
+    width: 230px;
+    text-transform: uppercase;
+    text-overflow: ellipsis;
+    border-radius: 10%;
+    box-sizing: content-box;
+    height: 475px;
+    background-blend-mode: darken;
+    background:url('https://source.unsplash.com/1600x1900/?black');
+    border: 1px solid white;
+}
+.contents{
+padding-left: 20px;
+width: 100px;
+}
+.heading{
+    align-items: center;
+    border: hotpink;
+    padding-left: 700px;
+    background:url('https://source.unsplash.com/200x200/?rainbow');
+    ruby-position: inline;
+}
+

@@ -1,0 +1,83 @@
+
+input[type=text], select, textarea {
+    width: 100%; 
+    padding: 12px;  
+    border: 1px solid #ccc;
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    margin-bottom: 16px;
+    
+  }
+
+  input[type=number], select, textarea {
+    width: 100%; 
+    padding: 12px;  
+    border: 1px solid #ccc;
+    border-radius: 4px; 
+    box-sizing: border-box;
+    margin-top: 6px; 
+    margin-bottom: 16px; 
+    
+  }
+
+  input[type=password], select, textarea {
+    width: 100%; 
+    padding: 12px;  
+    border: 1px solid #ccc;
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    margin-bottom: 16px;
+    
+  }
+
+  
+  
+  
+  .submit:hover {
+    background-color: #45a049;
+  }
+  
+  
+  .container {
+    border-radius: 20px;
+    background-image: url("pexels-krivec-ales-552789.jpg");
+    padding: 20px;
+  }
+  html {
+    background: rgba(0, 0, 0, 1) url('https://source.unsplash.com/1600x900/?coding');
+  }
+  .container{
+    width: 20%;
+    align-items: center;
+    margin-left: 40%;
+
+  }
+  body{
+    justify-content: center;
+    align-content: center;
+  }
+  .submit{
+    background: #04AA6D;
+    width: 90px;
+    height: 40px;
+    color: white;
+    border: #04AA6D;
+    border-radius: 20px;
+    cursor: pointer;
+    
+
+  }
+  h1{
+    color:chartreuse;
+    margin-left: 700px;
+  }
+  h3{
+    color: darkgray;
+    margin-left: 650px;
+  }
+  label{
+    color: floralwhite;
+    
+  }
