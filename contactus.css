@@ -43,7 +43,7 @@ body{
 .content .left-side::before{
   content: '';
   position: absolute;
-  height: 70%;
+  height: 72%;
   width: 2px;
   right: -15px;
   top: 50%;
